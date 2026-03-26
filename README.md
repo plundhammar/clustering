@@ -7,4 +7,4 @@ As part of the final assignment in the course Bayesian Learning I investigated a
 
 - [GitHub repository](https://github.com/plundhammar/Bayesian-Learning-Project/tree/main)
 
-This project was based on [Duan LL, Dunson DB. Bayesian Distance Clustering. J Mach Learn Res. 2021 Jan-Dec;22:224. PMID: 35782785; PMCID: PMC9245927.](https://pmc.ncbi.nlm.nih.gov/articles/PMC9245927/).
+This project was based on [Duan LL, Dunson DB. Bayesian Distance Clustering. J Mach Learn Res. 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC9245927/).
